@@ -2,12 +2,6 @@
   "database_path": "./data/listings.db",
   "searches": [
     {
-      "name": "Fiat Panda",
-      "source": "bazos_sk",
-      "url": "https://auto.bazos.sk/fiat/?hledat=Panda&cenaod=2000&cenado=15000&order=4",
-      "max_pages": 3
-    },
-    {
       "name": "3060",
       "source": "bazos_sk",
       "url": "https://pc.bazos.sk/graficka/?hledat=3060&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
