@@ -19,9 +19,11 @@
       "url": "https://pc.bazos.sk/graficka/?hledat=3080&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
       "max_pages": 3
      },
-     "name": "4060",
+    {
+    "name": "4060",
      "source": "bazos_sk",
      "url": "https://pc.bazos.sk/graficka/?hledat=40600&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
      "max_pages": 3
+    }
   ]
 }
