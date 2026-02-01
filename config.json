@@ -127,6 +127,48 @@
      "url": "https://pc.bazos.sk/hdd/?hledat=nvme&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
      "max_pages": 5
     },
+    {    
+     "name": "5600",
+     "source": "bazos_sk",
+     "url": "https://pc.bazos.sk/pc/?hledat=5600&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
+     "max_pages": 5
+    },
+    {    
+     "name": "5700",
+     "source": "bazos_sk",
+     "url": "https://pc.bazos.sk/pc/?hledat=5700&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
+     "max_pages": 5
+    },
+    {    
+     "name": "5800",
+     "source": "bazos_sk",
+     "url": "https://pc.bazos.sk/pc/?hledat=5800&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
+     "max_pages": 5
+    },
+    {    
+     "name": "5900",
+     "source": "bazos_sk",
+     "url": "https://pc.bazos.sk/pc/?hledat=5900&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
+     "max_pages": 5
+    },
+    {    
+     "name": "x3d",
+     "source": "bazos_sk",
+     "url": "https://pc.bazos.sk/pc/?hledat=x3d&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
+     "max_pages": 5
+    },
+    {    
+     "name": "7600x",
+     "source": "bazos_sk",
+     "url": "https://pc.bazos.sk/pc/?hledat=7600&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
+     "max_pages": 5
+    },
+    {    
+     "name": "9600x",
+     "source": "bazos_sk",
+     "url": "https://pc.bazos.sk/pc/?hledat=9600&rubriky=pc&hlokalita=&humkreis=25&cenaod=&cenado=&Submit=H%C4%BEada%C5%A5&order=&crp=&kitx=ano",
+     "max_pages": 5
+    },
      {
       "name": "3060",
       "source": "bazos_cz",
